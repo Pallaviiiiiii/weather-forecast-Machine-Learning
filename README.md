@@ -95,3 +95,8 @@ Step5: In manual deploy, Finally Click Deploy and wait till it gives you textbox
 ![alt_tag](https://raw.githubusercontent.com/ColonelAVP/Weather-App/master/IMG/1.2%20(2).png)
 ![alt_tag](https://raw.githubusercontent.com/ColonelAVP/Weather-App/master/IMG/1.3%20(2).png)
 
+# Here we can use 3 Algorithm 
+##KNN, ##SVM, ## Random Forest
+![w2](https://github.com/user-attachments/assets/88ea9d21-1c04-40d3-8377-ebe8448f79ca)
+![w1](https://github.com/user-attachments/assets/a20f9d98-48c3-4a3f-ac3f-3f16f45d35c5)
+
