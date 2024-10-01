@@ -1,6 +1,6 @@
-# ▶️ Weather-Forecast-App ⛅
-✅ Check the deployed project [here](https://weatherapp-avp.herokuapp.com/).
-## ⭕ Introduction:
+#  Weather-Forecast-App ⛅
+
+## Introduction:
 A weather forecast app is web-based application to get weather updates and any other climatic changes.
 In this project, I've made a weather forecast application using **Streamlit**  and **PYOWM** libraries in Python and then deploy the project on Heroku platform which is absolute free hosting platform.
 
@@ -10,12 +10,12 @@ In this project, I've made a weather forecast application using **Streamlit**  a
 * Data Visualisation
 * GitHub Integration (Heroku GitHub Deploys)
 
-## ⭕ Features:
+##  Features:
 * Getting Weather forecast using Open Weather API
 * City name based querying
 * Parameters: Temperature, Wind speed, Cloud coverage, Sunrise & Sunset time, Graphical representation
 
-## ⭕ Prerequisites:
+##  Prerequisites:
 >**Tools & Technologies used:**
 * Python 
 * [Streamlit](https://streamlit.io/)
@@ -34,7 +34,7 @@ pip install pyowm
 ``
 pip install matplotlib
 ``
-## ⭕ Steps:
+##  Steps:
 >Divided Steps into two:
 
 ``A. Scripting in Python``
@@ -78,16 +78,15 @@ Step4: Click deploying app and select Github Integration. Also connect Github to
 Step5: In manual deploy, Finally Click Deploy and wait till it gives you textbox to view deployed app.
 ```
 
-## ⭕ References:
+##  References:
 - [Open Weather Map](https://openweathermap.org/)
 - [Streamlit docs](https://docs.streamlit.io/en/stable/)
 - [Heroku deployment](https://devcenter.heroku.com/categories/deployment)
 - [Blog](https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd)
 
-## ⭕ Contributions:
-Contributions are always welcomed. Make sure you read the [Contribution](https://github.com/ColonelAVP/Weather-App/blob/master/Contribution.md) info before making pull request.
 
-## ⭕ Screenshots:
+
+##  Screenshots:
 ![alt tag](https://raw.githubusercontent.com/ColonelAVP/Weather-App/master/IMG/1.1.png)
 ![alt tag](https://raw.githubusercontent.com/ColonelAVP/Weather-App/master/IMG/1.4%20(2).png)
 ![alt_tag](https://raw.githubusercontent.com/ColonelAVP/Weather-App/master/IMG/1.2%20(2).png)
