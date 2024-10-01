@@ -87,7 +87,6 @@ Step5: In manual deploy, Finally Click Deploy and wait till it gives you textbox
 
 
 ##  Screenshots:
-![alt tag](https://raw.githubusercontent.com/ColonelAVP/Weather-App/master/IMG/1.1.png)
 ![alt tag](https://raw.githubusercontent.com/ColonelAVP/Weather-App/master/IMG/1.4%20(2).png)
 ![alt_tag](https://raw.githubusercontent.com/ColonelAVP/Weather-App/master/IMG/1.2%20(2).png)
 ![alt_tag](https://raw.githubusercontent.com/ColonelAVP/Weather-App/master/IMG/1.3%20(2).png)
